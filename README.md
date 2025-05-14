@@ -43,6 +43,7 @@ API 문서: https://developer.vimeo.com/api/reference
    npm start
    ```
 5. 브라우저에서 `http://localhost:3000` 접속
+![alt text](images/image.png)
 
 ## 기술 스택
 - React
