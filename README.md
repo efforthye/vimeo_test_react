@@ -43,8 +43,13 @@ API 문서: https://developer.vimeo.com/api/reference
    npm start
    ```
 5. 브라우저에서 `http://localhost:3000` 접속
+
+## 예시 화면
+### 기본 플레이어 영상 출력 & 영상 상세 정보 출력
 ![alt text](images/image.png)
+### 재생 시간 확인, 시청률 추적 (상태바 표시)
 ![alt text](image.png)
+### 특정 시점부터 영상 재생 (상태바 표시)
 ![alt text](image-1.png)
 
 ## 기술 스택
