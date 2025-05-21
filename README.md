@@ -44,6 +44,8 @@ API 문서: https://developer.vimeo.com/api/reference
    ```
 5. 브라우저에서 `http://localhost:3000` 접속
 ![alt text](images/image.png)
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## 기술 스택
 - React
