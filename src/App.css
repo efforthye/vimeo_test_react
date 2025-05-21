@@ -116,6 +116,34 @@ label {
   font-size: 14px;
 }
 
+/* 추가 플레이어 스타일 */
+.additional-players {
+  margin-top: 30px;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 20px;
+}
+
+.additional-players h2 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.additional-player-container {
+  margin-bottom: 30px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.additional-player-container h3 {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   .App {
     padding: 15px;
